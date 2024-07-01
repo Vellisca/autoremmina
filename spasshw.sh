@@ -2,7 +2,7 @@
 
 read -p "Ingrese su nombre de usuario: " username
 read -s -p "Ingrese su contraseña: " password
-echo
+remmina_file=$(mktemp /tmp/remmina_XXXXXX.remmina)
 
 server="lt+$username"
 domain="tu_dominio_fijo"
