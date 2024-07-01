@@ -1,5 +1,6 @@
 #!/bin/bash
 
+echo "RECUERDA HABILITAR RDP EN EL EQUIPO CORPORATIVO"
 read -p "Introduce tu nombre de usuario: " USER
 read -s -p "Introduce tu contraseña: " PASSWORD
 echo
