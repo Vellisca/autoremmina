@@ -2,7 +2,7 @@
 
 echo "RECUERDA HABILITAR RDP EN EL EQUIPO CORPORATIVO"
 read -p "Introduce tu nombre de usuario: " USER
-read -s -p "Introduce tu contraseña: " PASSWORD
+PASSWORD= "0"
 echo
 DOMAIN="gmv.es"
 SERVER="lt${USER}.gmv.es"
