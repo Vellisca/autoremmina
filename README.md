@@ -1,3 +1,5 @@
+#################CODIGO PARA SPASSHW#################################
+
 Para poder ponerlo como quieren, hay que seguir los siguientes pasos:
 
 sudo apt-get install git <br>
