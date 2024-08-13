@@ -2,6 +2,8 @@
 
 Para poder ponerlo como quieren, hay que seguir los siguientes pasos:
 
+sudo apt update
+sudo apt upgrade -y
 sudo apt-get install git <br>
 git clone https://github.com/Vellisca/autoremmina  #SIN SUDO <br>
 cd autoremmina/ <br>
